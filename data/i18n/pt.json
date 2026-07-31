@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "title": "Bruno Pinto | Desenvolvedor de Software",
+    "description": "Portfólio pessoal de Bruno Pinto - Desenvolvedor de Software focado na criação de aplicações web modernas."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Mim",
+    "projects": "Projetos",
+    "skills": "Competências",
+    "experience": "Experiência",
+    "education": "Formação",
+    "certifications": "Certificados",
+    "contact": "Contacto",
+    "cv": "Descarregar CV"
+  },
+  "hero": {
+    "greeting": "Olá, o meu nome é",
+    "title": "Desenvolvedor de Software",
+    "description": "Focado na criação de soluções web modernas, escaláveis e de elevado desempenho.",
+    "available_for_work": "Disponível para novos projetos",
+    "location": "Portugal",
+    "tech_stack": "Tecnologias Principais",
+    "github_btn": "GitHub",
+    "linkedin_btn": "LinkedIn",
+    "btn_projects": "Ver Projetos",
+    "btn_contact": "Entrar em Contacto",
+    "features": {
+      "fullstack": {
+        "title": "Full Stack Development",
+        "description": "Desenvolvimento de aplicações web modernas, desde o frontend até ao backend."
+      },
+      "responsive": {
+        "title": "Responsive Design",
+        "description": "Interfaces rápidas, acessíveis e adaptáveis a qualquer dispositivo."
+      },
+      "i18n": {
+        "title": "Internationalization (i18n)",
+        "description": "Aplicações preparadas para múltiplos idiomas e expansão internacional."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Conheça a minha trajetória e motivações",
+    "description": "Desenvolvedor apaixonado por tecnologia e criação de aplicações web de elevado valor.",
+    "paragraphs": {
+      "1": "Sou um Desenvolvedor Web Full Stack com sólida experiência anterior em suporte técnico e resolução de problemas complexos, o que me confere uma perspetiva holística e analítica na criação de soluções tecnológicas.",
+      "2": "O meu foco principal reside no desenvolvimento de aplicações web modernas, limpas e escaláveis utilizando PHP, JavaScript e MySQL, combinando boas práticas de engenharia de software com uma excelente experiência de utilizador."
+    },
+    "highlights": {
+      "career_transition": {
+        "title": "Transição de Carreira",
+        "description": "Transição do Suporte Técnico para o Desenvolvimento Full Stack, combinando experiência prática com aprendizagem contínua."
+      },
+      "problem_solving": {
+        "title": "Resolução de Problemas",
+        "description": "Experiência na análise de problemas, diagnóstico técnico e implementação de soluções eficientes."
+      },
+      "continuous_learning": {
+        "title": "Aprendizagem Contínua",
+        "description": "Formação contínua através de cursos, certificações e desenvolvimento de projetos pessoais."
+      }
+    }
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Alguns dos meus trabalhos mais recentes",
+    "view_project": "Ver Projeto",
+    "view_repository": "Ver Repositório",
+    "live_demo": "Demonstração",
+    "technologies": "Tecnologias Utilizadas",
+    "coming_soon": "Em breve..."
+  },
+  "skills": {
+    "title": "Competências",
+    "level": {
+      "advanced": "Avançado",
+      "intermediate": "Intermédio",
+      "basic": "Básico"
+    },
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "databases": "Bases de Dados",
+    "frameworks": "Frameworks",
+    "tools": "Ferramentas",
+    "languages": "Linguagens",
+    "concepts": "Conceitos & Metodologias"
+  },
+  "experience": {
+    "title": "Experiência Profissional",
+    "subtitle": "O meu percurso no setor tecnológico",
+    "present": "Presente"
+  },
+  "education": {
+    "title": "Formação Académica",
+    "subtitle": "Qualificações e percurso académico",
+    "description": "Percurso académico e formações técnicas focadas no desenvolvimento de software.",
+    "completed": "Concluído",
+    "in_progress": "Em curso",
+    "not_completed": "Não concluído",
+    "institution": "Instituição",
+    "location": "Localização",
+    "period": "Período",
+    "technologies": "Tecnologias",
+    "skills": "Competências",
+    "skills_list": {
+      "full_stack": "Desenvolvimento Full Stack",
+      "responsive_design": "Design Responsivo",
+      "database_design": "Design de Bases de Dados",
+      "computational_math": "Matemática Computacional",
+      "analytical_thinking": "Pensamento Analítico",
+      "problem_solving": "Resolução de Problemas"
+    }
+  },
+  "tech": {
+    "programming_fundamentals": "Fundamentos de Programação",
+    "hardware_troubleshooting": "Diagnóstico de Hardware",
+    "software_support": "Suporte de Software",
+    "networking": "Redes",
+    "customer_support": "Apoio ao Cliente",
+    "technical_troubleshooting": "Resolução de Avarias Técnicas",
+    "software_configuration": "Configuração de Software"
+  },
+  "categories": {
+    "office": "Office",
+    "languages": "Idiomas",
+    "programming": "Programação",
+    "digital_skills": "Competências Digitais"
+  },
+  "certifications": {
+    "title": "Certificados",
+    "subtitle": "Formações e certificações obtidas",
+    "view_certificate": "Ver Certificado",
+    "view_certificates": "Ver Certificados"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Vamos conversar? Envie uma mensagem",
+    "form": {
+      "name_label": "Nome",
+      "name_placeholder": "O seu nome completo",
+      "email_label": "Email",
+      "email_placeholder": "seu.email@exemplo.com",
+      "subject_label": "Assunto",
+      "subject_placeholder": "Assunto da mensagem",
+      "message_label": "Mensagem",
+      "message_placeholder": "Escreva a sua mensagem aqui...",
+      "submit_btn": "Enviar Mensagem",
+      "sending_btn": "A enviar...",
+      "success_msg": "Mensagem enviada com sucesso!",
+      "error_msg": "Ocorreu um erro ao enviar a mensagem. Tente novamente."
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "developed_by": "Desenvolvido por Bruno Pinto",
+    "version": "v1.0.0",
+    "last_updated": "Última atualização: Julho 2026"
+  },
+  "common": {
+    "menu_toggle_aria": "Alternar menu de navegação",
+    "theme_toggle_aria": "Alternar tema de cor",
+    "scroll_top_aria": "Voltar ao topo",
+    "lang_pt": "Português",
+    "lang_en": "Inglês",
+    "loading": "A carregar...",
+    "close": "Fechar",
+    "open": "Abrir",
+    "back": "Voltar",
+    "next": "Seguinte",
+    "previous": "Anterior",
+    "more": "Ver mais",
+    "less": "Ver menos"
+  }
+}

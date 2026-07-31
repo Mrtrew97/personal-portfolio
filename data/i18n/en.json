@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "title": "Bruno Pinto | Software Developer",
+    "description": "Personal portfolio of Bruno Pinto - Software Developer focused on building modern web applications."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "cv": "Download CV"
+  },
+  "hero": {
+    "greeting": "Hello, my name is",
+    "title": "Software Developer",
+    "description": "Focused on creating modern, scalable, and high-performance web solutions.",
+    "available_for_work": "Available for new projects",
+    "location": "Portugal",
+    "tech_stack": "Core Tech Stack",
+    "github_btn": "GitHub",
+    "linkedin_btn": "LinkedIn",
+    "btn_projects": "View Projects",
+    "btn_contact": "Get in Touch",
+    "features": {
+      "fullstack": {
+        "title": "Full Stack Development",
+        "description": "Development of modern web applications from frontend to backend."
+      },
+      "responsive": {
+        "title": "Responsive Design",
+        "description": "Fast, accessible interfaces that adapt to any device."
+      },
+      "i18n": {
+        "title": "Internationalization (i18n)",
+        "description": "Applications designed for multiple languages and international audiences."
+      }
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Discover my journey and motivations",
+    "description": "Passionate developer focused on technology and building high-value web applications.",
+    "paragraphs": {
+      "1": "I am a Full Stack Web Developer with solid prior experience in technical support and complex problem solving, providing me with a holistic and analytical perspective when building technological solutions.",
+      "2": "My primary focus lies on developing modern, clean, and scalable web applications using PHP, JavaScript, and MySQL, combining software engineering best practices with an excellent user experience."
+    },
+    "highlights": {
+      "career_transition": {
+        "title": "Career Transition",
+        "description": "Transition from IT Support to Full Stack Development, combining hands-on experience with continuous learning."
+      },
+      "problem_solving": {
+        "title": "Problem Solving",
+        "description": "Experience in analyzing problems, technical troubleshooting, and implementing efficient solutions."
+      },
+      "continuous_learning": {
+        "title": "Continuous Learning",
+        "description": "Continuous learning through courses, certifications, and personal projects."
+      }
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of my recent work",
+    "view_project": "View Project",
+    "view_repository": "View Repository",
+    "live_demo": "Live Demo",
+    "technologies": "Technologies Used",
+    "coming_soon": "Coming soon..."
+  },
+  "skills": {
+    "title": "Skills",
+    "level": {
+      "advanced": "Advanced",
+      "intermediate": "Intermediate",
+      "basic": "Basic"
+    },
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "databases": "Databases",
+    "frameworks": "Frameworks",
+    "tools": "Tools",
+    "languages": "Languages",
+    "concepts": "Concepts & Methodologies"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "My journey in the tech industry",
+    "present": "Present"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Qualifications and academic background",
+    "description": "Academic background and technical training focused on software development.",
+    "completed": "Completed",
+    "in_progress": "In Progress",
+    "not_completed": "Not completed",
+    "institution": "Institution",
+    "location": "Location",
+    "period": "Period",
+    "technologies": "Technologies",
+    "skills": "Skills",
+    "skills_list": {
+      "full_stack": "Full Stack Development",
+      "responsive_design": "Responsive Design",
+      "database_design": "Database Design",
+      "computational_math": "Computational Mathematics",
+      "analytical_thinking": "Analytical Thinking",
+      "problem_solving": "Problem Solving"
+    }
+  },
+  "tech": {
+    "programming_fundamentals": "Programming Fundamentals",
+    "hardware_troubleshooting": "Hardware Troubleshooting",
+    "software_support": "Software Support",
+    "networking": "Networking",
+    "customer_support": "Customer Support",
+    "technical_troubleshooting": "Technical Troubleshooting",
+    "software_configuration": "Software Configuration"
+  },
+  "categories": {
+    "office": "Office",
+    "languages": "Languages",
+    "programming": "Programming",
+    "digital_skills": "Digital Skills"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "subtitle": "Completed courses and earned certifications",
+    "view_certificate": "View Certificate",
+    "view_certificates": "View Certificates"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk! Send me a message",
+    "form": {
+      "name_label": "Name",
+      "name_placeholder": "Your full name",
+      "email_label": "Email",
+      "email_placeholder": "your.email@example.com",
+      "subject_label": "Subject",
+      "subject_placeholder": "Message subject",
+      "message_label": "Message",
+      "message_placeholder": "Write your message here...",
+      "submit_btn": "Send Message",
+      "sending_btn": "Sending...",
+      "success_msg": "Message sent successfully!",
+      "error_msg": "An error occurred while sending the message. Please try again."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "developed_by": "Developed by Bruno Pinto",
+    "version": "v1.0.0",
+    "last_updated": "Last updated: July 2026"
+  },
+  "common": {
+    "menu_toggle_aria": "Toggle navigation menu",
+    "theme_toggle_aria": "Toggle color theme",
+    "scroll_top_aria": "Scroll to top",
+    "lang_pt": "Portuguese",
+    "lang_en": "English",
+    "loading": "Loading...",
+    "close": "Close",
+    "open": "Open",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "more": "See more",
+    "less": "See less"
+  }
+}

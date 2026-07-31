@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="meta.title"></title>
+  <meta name="description" content="" data-i18n-attr="content:meta.description">
+  <meta name="author" content="Bruno Pinto">
+  <meta property="og:title" content="Bruno Pinto">
+  <meta property="og:description" content="" data-i18n-attr="content:meta.description">
+  <meta property="og:image" content="assets/images/og-preview.webp">
+  <meta property="og:type" content="website">
+
+  <link rel="icon" type="image/x-icon" href="assets/images/favicon/favicon.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/pages.css">
+</head>
+<body class="bp-body">
+
+  <header class="sticky-top">
+    <nav class="navbar navbar-expand-lg bp-navbar">
+      <div class="container">
+        <a class="navbar-brand bp-navbar-brand d-flex align-items-center gap-2" href="#home" data-route="home">
+          <img src="assets/images/logo.png" alt="Bruno Pinto Logo" height="36" class="rounded">
+          <span>Bruno Pinto</span>
+        </a>
+
+        <button class="navbar-toggler bp-btn-outline p-2 border-0" type="button" data-bs-toggle="collapse" data-bs-target="#bp-navbar-nav" aria-controls="bp-navbar-nav" aria-expanded="false" data-i18n-attr="aria-label:common.menu_toggle_aria">
+          <i class="bi bi-list fs-3"></i>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bp-navbar-nav">
+          <ul class="navbar-collapse nav ms-auto mb-2 mb-lg-0 gap-1 align-items-lg-center">
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#home" data-route="home" data-i18n="nav.home"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#about" data-route="about" data-i18n="nav.about"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#projects" data-route="projects" data-i18n="nav.projects"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#skills" data-route="skills" data-i18n="nav.skills"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#experience" data-route="experience" data-i18n="nav.experience"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#education" data-route="education" data-i18n="nav.education"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#certifications" data-route="certifications" data-i18n="nav.certifications"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link bp-nav-link" href="#contact" data-route="contact" data-i18n="nav.contact"></a>
+            </li>
+          </ul>
+
+          <div class="d-flex align-items-center gap-2 ms-lg-3 mt-3 mt-lg-0">
+            <button class="bp-lang-btn" data-lang="pt" data-i18n-attr="aria-label:common.lang_pt">PT</button>
+            <button class="bp-lang-btn" data-lang="en" data-i18n-attr="aria-label:common.lang_en">EN</button>
+            <button id="bp-theme-toggle" class="bp-theme-toggle" data-i18n-attr="aria-label:common.theme_toggle_aria">
+              <i class="bi bi-sun-fill"></i>
+            </button>
+            <a href="assets/documents/Bruno_Pinto_CV.pdf" target="_blank" rel="noopener noreferrer" class="bp-btn-primary btn-sm ms-1" aria-label="CV">
+              <i class="bi bi-download"></i> CV
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main id="bp-page" class="flex-grow-1"></main>
+
+  <footer class="bp-footer">
+    <div class="container text-center">
+      <p class="mb-1 bp-text-muted">
+        &copy; <span id="bp-current-year"></span> Bruno Pinto. <span data-i18n="footer.rights"></span>
+      </p>
+      <p class="small bp-text-muted mb-0">
+        <span data-i18n="footer.developed_by"></span> &bull; <span data-i18n="footer.version"></span>
+      </p>
+    </div>
+  </footer>
+
+  <button id="bp-scroll-top" class="bp-scroll-top" data-i18n-attr="aria-label:common.scroll_top_aria">
+    <i class="bi bi-arrow-up-short fs-2"></i>
+  </button>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/router.js"></script>
+  <script src="assets/js/ui.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "exp-gigroup",
+    "order": 1,
+    "company": "Gi Group Holding",
+    "companyUrl": null,
+    "location": "Lisboa, Portugal",
+    "employmentType": "contract",
+    "role": {
+      "pt": "Intérprete de Inglês–Português",
+      "en": "English-Portuguese Interpreter"
+    },
+    "startDate": "01/2026",
+    "endDate": "05/2026",
+    "isCurrent": false,
+    "description": {
+      "pt": "Prestação de serviços de interpretação em tempo real entre Inglês e Português em ambientes de alta exigência e chamadas médicas/emergência.",
+      "en": "Provided real-time English-Portuguese interpretation services in high-demand environments and medical/emergency calls."
+    },
+    "achievements": {
+      "pt": [
+        "Prestação de serviços de interpretação em tempo real entre Inglês e Português durante chamadas médicas e chamadas de emergência de elevada pressão.",
+        "Garantia de comunicação precisa, preservando o significado, o contexto e o tom original de cada interação.",
+        "Cumprimento rigoroso dos princípios de confidencialidade e normas profissionais."
+      ],
+      "en": [
+        "Provided real-time English-Portuguese interpretation during medical and high-pressure emergency calls.",
+        "Ensured precise communication, preserving original meaning, context, and tone.",
+        "Strict adherence to confidentiality principles and professional interpretation standards."
+      ]
+    },
+    "technologies": ["VoIP", "Remote Interpretation Platforms"]
+  },
+  {
+    "id": "exp-climed",
+    "order": 2,
+    "company": "Climed",
+    "companyUrl": null,
+    "location": "Luanda, Angola",
+    "employmentType": "full-time",
+    "role": {
+      "pt": "Técnico de Suporte de TI",
+      "en": "IT Support Technician"
+    },
+    "startDate": "10/2022",
+    "endDate": "12/2025",
+    "isCurrent": false,
+    "description": {
+      "pt": "Prestação de suporte técnico a computadores, aplicações de software, dispositivos periféricos e profissionais das áreas clínica e administrativa.",
+      "en": "Provided technical support for computers, software applications, peripheral devices, and clinical/administrative professionals."
+    },
+    "achievements": {
+      "pt": [
+        "Instalação, configuração e manutenção de sistemas operativos e aplicações empresariais.",
+        "Diagnóstico e resolução de problemas de hardware e software, minimizando interrupções na operação.",
+        "Realização de manutenção preventiva e suporte informático presencial."
+      ],
+      "en": [
+        "Installation, configuration, and maintenance of operating systems and enterprise applications.",
+        "Diagnosis and resolution of hardware and software issues, minimizing operational downtime.",
+        "Performed preventative maintenance and on-site IT support."
+      ]
+    },
+    "technologies": ["Windows", "tech.hardware_troubleshooting", "tech.software_support", "tech.networking"]
+  },
+  {
+    "id": "exp-freelance",
+    "order": 3,
+    "company": "Freelance",
+    "companyUrl": null,
+    "location": "Lisboa, Portugal (Remoto)",
+    "employmentType": "freelance",
+    "role": {
+      "pt": "Freelancer em Suporte de TI & Web Developer",
+      "en": "IT Support & Web Developer Freelancer"
+    },
+    "startDate": "08/2020",
+    "endDate": "10/2022",
+    "isCurrent": false,
+    "description": {
+      "pt": "Desenvolvimento de websites e aplicações web personalizados, com prestação autónoma de suporte técnico e otimização de desempenho.",
+      "en": "Development of custom websites and web applications, with autonomous technical support and performance optimization."
+    },
+    "achievements": {
+      "pt": [
+        "Desenvolvimento e manutenção de websites e aplicações web responsivas para clientes.",
+        "Implementação de atualizações, correção de erros e otimização do desempenho e da acessibilidade.",
+        "Comunicação direta com clientes para levantamento de requisitos e criação de soluções técnicas à medida."
+      ],
+      "en": [
+        "Developed and maintained responsive websites and web applications for clients.",
+        "Implemented updates, bug fixes, and optimized performance and accessibility.",
+        "Direct communication with clients for requirement gathering and tailored technical solutions."
+      ]
+    },
+    "technologies": ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Git"]
+  },
+  {
+    "id": "exp-arvato",
+    "order": 4,
+    "company": "Arvato Group",
+    "companyUrl": null,
+    "location": "Lisboa, Portugal",
+    "employmentType": "full-time",
+    "role": {
+      "pt": "Apoio ao Cliente / Customer Service",
+      "en": "Customer Service Representative"
+    },
+    "startDate": "09/2016",
+    "endDate": "05/2017",
+    "isCurrent": false,
+    "description": {
+      "pt": "Resolução de pedidos de suporte técnico por e-mail, diagnóstico de incompatibilidades de hardware/software e orientação técnica a utilizadores.",
+      "en": "Resolved technical support requests via email, diagnosed hardware/software incompatibilities, and provided technical guidance to users."
+    },
+    "achievements": {
+      "pt": [
+        "Resposta a pedidos de suporte técnico por e-mail relacionados com desempenho de computadores e software.",
+        "Diagnóstico e resolução de incompatibilidades que afetavam motores de jogo e desempenho de sistemas.",
+        "Prestação de orientação técnica clara aos clientes e encaminhamento de casos complexos."
+      ],
+      "en": [
+        "Responded to technical support requests via email related to computer performance and software.",
+        "Diagnosed and resolved incompatibilities affecting game engines and system performance.",
+        "Provided clear technical guidance to clients and escalated complex cases."
+      ]
+    },
+    "technologies": ["tech.customer_support", "tech.technical_troubleshooting", "tech.software_configuration"]
+  }
+]

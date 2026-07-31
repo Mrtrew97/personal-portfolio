@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cert-skb-office",
+    "order": 1,
+    "category": "categories.office",
+    "featured": true,
+    "title": {
+      "pt": "Informática e Office",
+      "en": "Office & Computing"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1-gKsbVUXzIo12goFPK_T9qoLtx2QIQGL/view?usp=sharing",
+    "image": null,
+    "description": {
+      "pt": "Certificação em ferramentas de escritório e produtividade informática.",
+      "en": "Certification in office tools and computing productivity."
+    }
+  },
+  {
+    "id": "cert-skb-english",
+    "order": 2,
+    "category": "categories.languages",
+    "featured": true,
+    "title": {
+      "pt": "Inglês",
+      "en": "English"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1hCLg6yF1OLtEJPQWpHL8Z8nObIWURDeZ/view?usp=drive_link",
+    "image": null,
+    "description": {
+      "pt": "Certificação de competências em língua inglesa.",
+      "en": "English language proficiency certification."
+    }
+  },
+  {
+    "id": "cert-santander-python",
+    "order": 3,
+    "category": "categories.programming",
+    "featured": true,
+    "title": {
+      "pt": "Python Programming",
+      "en": "Python Programming"
+    },
+    "issuer": "Santander",
+    "issuerUrl": "https://www.santanderopenacademy.com/en/index.html",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1d1_h5gI5UGhtlYDtDMWqVacjnVGJKdS9/view?usp=drive_link",
+    "image": null,
+    "description": {
+      "pt": "Curso de programação em Python promovido pelo Santander.",
+      "en": "Python programming course sponsored by Santander."
+    }
+  },
+  {
+    "id": "cert-mydigiskills",
+    "order": 4,
+    "category": "categories.digital_skills",
+    "featured": true,
+    "title": {
+      "pt": "Competências Digitais",
+      "en": "Digital Competences"
+    },
+    "issuer": "MyDigiSkills",
+    "issuerUrl": "https://mydigiskills.eu/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/13x7-Yf7f6W-Mh8b5wdHowmz_AOCBOXxA/view?usp=drive_link",
+    "image": null,
+    "description": {
+      "pt": "Avaliação e certificação de competências digitais.",
+      "en": "Digital skills assessment and certification."
+    }
+  }
+]

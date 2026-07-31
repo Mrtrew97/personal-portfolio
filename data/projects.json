@@ -1,0 +1,97 @@
+[
+  {
+    "id": "proj-nexbyte",
+    "slug": "nexbyte-ecommerce",
+    "order": 1,
+    "category": "fullstack",
+    "title": {
+      "pt": "NEXBYTE — E-commerce de Hardware e Tecnologia",
+      "en": "NEXBYTE — Hardware & High Performance Technology E-commerce"
+    },
+    "description": {
+      "pt": "Sistema completo de comércio eletrónico com catálogo de produtos, sistema multilíngue, carrinho de compras e gestão de utilizadores.",
+      "en": "Complete e-commerce system featuring product catalog, multilingual system, shopping cart, and user management."
+    },
+    "technologies": ["PHP 8.2", "MySQL", "HTML5", "CSS3", "JavaScript", "Bootstrap 5", "TypeScript", "jQuery"],
+    "image": "assets/images/projects/nexbyte-ecommerce.webp",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/Mrtrew97/nexbyte-ecommerce",
+    "featured": true
+  },
+  {
+    "id": "proj-sabaton-ecommerce",
+    "slug": "sabaton-ecommerce-ajax-json",
+    "order": 2,
+    "category": "frontend",
+    "title": {
+      "pt": "Sabaton Ecommerce AJAX JSON",
+      "en": "Sabaton Ecommerce AJAX JSON"
+    },
+    "description": {
+      "pt": "Aplicação de e-commerce desenvolvida com JavaScript, AJAX e dados JSON, simulando uma loja online dinâmica com carregamento assíncrono de produtos e interação sem recarregamento da página.",
+      "en": "E-commerce application developed with JavaScript, AJAX, and JSON data, simulating a dynamic online store with asynchronous product loading and seamless user interaction."
+    },
+    "technologies": ["HTML5", "CSS3", "JavaScript", "AJAX", "JSON", "Bootstrap"],
+    "image": "assets/images/projects/sabaton-ecommerce-ajax-json.webp",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/Mrtrew97/sabaton-ecommerce-ajax-json",
+    "featured": false
+  },
+  {
+    "id": "proj-kanban",
+    "slug": "gestor-tarefas-kanban",
+    "order": 3,
+    "category": "fullstack",
+    "title": {
+      "pt": "Gestor de Tarefas Kanban",
+      "en": "Kanban Task Manager"
+    },
+    "description": {
+      "pt": "Aplicação de gestão de tarefas com estados (Por Fazer, Em Progresso, Concluído) e operações CRUD completas.",
+      "en": "Task management application featuring board states (To Do, In Progress, Done) and full CRUD operations."
+    },
+    "technologies": ["PHP", "PDO", "MySQL", "JavaScript", "jQuery", "Bootstrap 5"],
+    "image": "assets/images/projects/kanban-task-manager-php-mysql.webp",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/Mrtrew97/kanban-task-manager-php-mysql",
+    "featured": true
+  },
+  {
+    "id": "proj-portfolio",
+    "slug": "personal-developer-portfolio",
+    "order": 4,
+    "category": "frontend",
+    "title": {
+      "pt": "Portfólio Pessoal de Desenvolvedor",
+      "en": "Personal Developer Portfolio"
+    },
+    "description": {
+      "pt": "Portfólio pessoal moderno com arquitetura modular, sistema i18n, Dark/Light mode e dados dinâmicos em JSON.",
+      "en": "Modern personal portfolio featuring modular architecture, i18n system, Dark/Light mode, and dynamic JSON data."
+    },
+    "technologies": ["HTML5", "CSS3", "JavaScript ES6+", "Bootstrap 5", "Fetch API", "JSON", "Formspree"],
+    "image": "assets/images/projects/personal-portfolio.webp",
+    "demoUrl": "https://mrtrew97.github.io/personal-portfolio/",
+    "repoUrl": "https://github.com/Mrtrew97/personal-portfolio",
+    "featured": true
+  },
+  {
+    "id": "proj-masterd-fullstack-course",
+    "slug": "masterd-fullstack-course",
+    "order": 5,
+    "category": "fullstack",
+    "title": {
+        "pt": "Master.D Full Stack Web Development",
+        "en": "Master.D Full Stack Web Development"
+    },
+    "description": {
+        "pt": "Repositório central de projetos desenvolvidos durante a formação Full Stack Web Development da Master.D, reunindo exercícios práticos e aplicações criadas com tecnologias frontend e backend.",
+        "en": "Central repository of projects developed during the Master.D Full Stack Web Development course, gathering practical exercises and applications built with frontend and backend technologies."
+    },
+    "technologies": ["HTML5", "CSS3", "JavaScript ES6+", "TypeScript", "PHP", "MySQL", "Bootstrap 5", "React", "Angular", "Git"],
+    "image": "assets/images/projects/masterd-fullstack-course.webp",
+    "demoUrl": null,
+    "repoUrl": "https://github.com/Mrtrew97/masterd-fullstack-course",
+    "featured": false
+    }
+]

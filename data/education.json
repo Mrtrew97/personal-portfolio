@@ -1,0 +1,64 @@
+[
+  {
+    "id": "edu-masterd",
+    "order": 1,
+    "category": "professional-training",
+    "featured": true,
+    "institution": "Master.D",
+    "institutionUrl": "https://www.masterd.pt/",
+    "location": "Lisboa, Portugal",
+    "title": {
+      "pt": "Full Stack Web Developer",
+      "en": "Full Stack Web Developer"
+    },
+    "startDate": "05/2026",
+    "endDate": "07/2026",
+    "isCurrent": false,
+    "completed": true,
+    "description": {
+      "pt": "Formação intensiva em Full Stack Web Development, abrangendo desenvolvimento front-end, back-end, arquitetura de bases de dados e conclusão de 10 projetos práticos, incluindo a aplicação NEXBYTE.",
+      "en": "Intensive training in Full Stack Web Development, covering front-end, back-end development, database architecture, and completion of 10 practical projects, including the NEXBYTE application."
+    },
+    "skills": [
+      "edu.skills.full_stack",
+      "edu.skills.responsive_design",
+      "edu.skills.database_design"
+    ],
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ]
+  },
+  {
+    "id": "edu-ist",
+    "order": 2,
+    "category": "academic",
+    "featured": false,
+    "institution": "Instituto Superior Técnico",
+    "institutionUrl": "https://tecnico.ulisboa.pt/",
+    "location": "Lisboa, Portugal",
+    "title": {
+      "pt": "Mestrado Integrado em Engenharia Civil",
+      "en": "Integrated Master in Civil Engineering"
+    },
+    "startDate": "09/2017",
+    "endDate": "07/2020",
+    "isCurrent": false,
+    "completed": false,
+    "description": {
+      "pt": "Estudo de cálculo diferencial e integral, álgebra linear, mecânica das estruturas, hidráulica e desenvolvimento de bases sólidas em programação e matemática computacional.",
+      "en": "Study of differential and integral calculus, linear algebra, structural mechanics, hydraulics, and development of solid foundations in programming and computational mathematics."
+    },
+    "skills": [
+      "edu.skills.computational_math",
+      "edu.skills.analytical_thinking",
+      "edu.skills.problem_solving"
+    ],
+    "technologies": [
+      "tech.programming_fundamentals"
+    ]
+  }
+]

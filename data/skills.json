@@ -1,0 +1,193 @@
+[
+  {
+    "id": "cat-frontend",
+    "category": "frontend",
+    "order": 1,
+    "categoryKey": "skills.frontend",
+    "skills": [
+      {
+        "id": "skill-html5",
+        "name": "HTML5",
+        "icon": "bi bi-filetype-html",
+        "level": "advanced",
+        "description": {
+          "pt": "Estruturação semântica e acessível para a web moderna.",
+          "en": "Semantic and accessible structuring for the modern web."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-css3",
+        "name": "CSS3",
+        "icon": "bi bi-filetype-css",
+        "level": "advanced",
+        "description": {
+          "pt": "Estilização avançada, Flexbox, Grid Layout e animações responsivas.",
+          "en": "Advanced styling, Flexbox, Grid Layout, and responsive animations."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-js",
+        "name": "JavaScript (ES6+)",
+        "icon": "bi bi-filetype-js",
+        "level": "intermediate",
+        "description": {
+          "pt": "Desenvolvimento dinâmico, assíncrono e manipulação de DOM.",
+          "en": "Dynamic and asynchronous development, and DOM manipulation."
+        },
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-frameworks",
+    "category": "frameworks",
+    "order": 2,
+    "categoryKey": "skills.frameworks",
+    "skills": [
+      {
+        "id": "skill-bootstrap",
+        "name": "Bootstrap 5",
+        "icon": "bi bi-bootstrap",
+        "level": "intermediate",
+        "description": {
+          "pt": "Criação ágil de interfaces responsivas e sistemas de grelha.",
+          "en": "Rapid creation of responsive interfaces and grid systems."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-ts",
+        "name": "TypeScript",
+        "icon": "bi bi-code-slash",
+        "level": "intermediate",
+        "description": {
+          "pt": "JavaScript com tipagem estática para aplicações mais robustas.",
+          "en": "Statically typed JavaScript for robust applications."
+        },
+        "featured": false
+      },
+      {
+        "id": "skill-jquery",
+        "name": "jQuery",
+        "icon": "bi bi-code-square",
+        "level": "intermediate",
+        "description": {
+          "pt": "Manipulação simplificada de DOM e requisições AJAX.",
+          "en": "Simplified DOM manipulation and AJAX requests."
+        },
+        "featured": false
+      }
+    ]
+  },
+  {
+    "id": "cat-backend",
+    "category": "backend",
+    "order": 3,
+    "categoryKey": "skills.backend",
+    "skills": [
+      {
+        "id": "skill-php",
+        "name": "PHP 8.2",
+        "icon": "bi bi-filetype-php",
+        "level": "intermediate",
+        "description": {
+          "pt": "Desenvolvimento de aplicações web dinâmicas e sistemas e-commerce.",
+          "en": "Development of dynamic web applications and e-commerce systems."
+        },
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-databases",
+    "category": "databases",
+    "order": 4,
+    "categoryKey": "skills.databases",
+    "skills": [
+      {
+        "id": "skill-mysql",
+        "name": "MySQL & PDO",
+        "icon": "bi bi-database",
+        "level": "intermediate",
+        "description": {
+          "pt": "Modelação de bases de dados relacionais e consultas seguras.",
+          "en": "Relational database modeling and secure queries."
+        },
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-languages",
+    "category": "programming",
+    "order": 5,
+    "categoryKey": "skills.languages",
+    "skills": [
+      {
+        "id": "skill-python",
+        "name": "Python",
+        "icon": "bi bi-filetype-py",
+        "level": "basic",
+        "description": {
+          "pt": "Automação de tarefas, scripts e processamento de dados.",
+          "en": "Task automation, scripting, and data processing."
+        },
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-tools",
+    "category": "tools",
+    "order": 6,
+    "categoryKey": "skills.tools",
+    "skills": [
+      {
+        "id": "skill-git",
+        "name": "Git",
+        "icon": "bi bi-git",
+        "level": "intermediate",
+        "description": {
+          "pt": "Controlo de versões, branches e fluxos de trabalho colaborativos.",
+          "en": "Version control, branching, and collaborative workflows."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-github",
+        "name": "GitHub",
+        "icon": "bi bi-github",
+        "level": "intermediate",
+        "description": {
+          "pt": "Hospedagem de código, pull requests e GitHub Pages.",
+          "en": "Code hosting, pull requests, and GitHub Pages."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-fetch",
+        "name": "Fetch API",
+        "icon": "bi bi-cloud-arrow-down",
+        "level": "intermediate",
+        "description": {
+          "pt": "Consumo de recursos assíncronos através de APIs modernas JavaScript.",
+          "en": "Asynchronous resource consumption through modern JavaScript APIs."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-ajax",
+        "name": "AJAX & JSON",
+        "icon": "bi bi-filetype-json",
+        "level": "intermediate",
+        "description": {
+          "pt": "Comunicação assíncrona cliente-servidor e troca de dados.",
+          "en": "Asynchronous client-server communication and data exchange."
+        },
+        "featured": false
+      }
+    ]
+  }
+]
