@@ -1,5 +1,5 @@
 const UI_THEME_STORAGE_KEY = 'bp_theme';
-const UI_DEFAULT_THEME = 'dark';
+const UI_DEFAULT_THEME = 'light';
 
 const uiState = {
   theme: UI_DEFAULT_THEME,
