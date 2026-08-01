@@ -8,7 +8,7 @@ A modern multilingual portfolio built with HTML, CSS, JavaScript, Bootstrap, and
 
 ## Screenshots
 
-![Portfolio Preview](assets/images/readme/preview.webp)
+![Portfolio Preview](assets/images/projects/personal-portfolio.webp)
 
 ## Overview
 
@@ -108,13 +108,6 @@ git clone https://github.com/Mrtrew97/personal-portfolio.git
 
 Open `index.html` in your browser or serve the project using your preferred local web server (e.g., Live Server in VS Code).
 
-## Configuration
-
-Replace `YOUR_ENDPOINT` with your own Formspree endpoint inside `pages/contact.html`:
-
-```html
-<form id="bp-contact-form" action="https://formspree.io/f/YOUR_ENDPOINT" method="POST">
-```
 
 ## Author
 

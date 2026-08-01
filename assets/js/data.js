@@ -8,7 +8,7 @@ const dataState = {
 
 async function carregarJSON(caminho) {
   try {
-    const response = await fetch(caminho);
+    const response = await fetch(`${caminho}?v=${Date.now()}`);
     if (!response.ok) {
       throw new Error(`Erro ao carregar ${caminho}: ${response.statusText}`);
     }

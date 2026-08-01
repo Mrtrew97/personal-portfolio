@@ -5,8 +5,8 @@
     "category": "categories.office",
     "featured": true,
     "title": {
-      "pt": "Informática e Office",
-      "en": "Office & Computing"
+      "pt": "Office",
+      "en": "Office"
     },
     "issuer": "MasterD",
     "issuerUrl": "https://www.masterd.pt/",
@@ -16,8 +16,8 @@
     "credentialUrl": "https://drive.google.com/file/d/1-gKsbVUXzIo12goFPK_T9qoLtx2QIQGL/view?usp=sharing",
     "image": null,
     "description": {
-      "pt": "Certificação em ferramentas de escritório e produtividade informática.",
-      "en": "Certification in office tools and computing productivity."
+      "pt": "Certificação em ferramentas de produtividade e aplicações Microsoft Office.",
+      "en": "Certification in productivity tools and Microsoft Office applications."
     }
   },
   {
@@ -81,6 +81,27 @@
     "description": {
       "pt": "Avaliação e certificação de competências digitais.",
       "en": "Digital skills assessment and certification."
+    }
+  },
+  {
+    "id": "cert-masterd-computing",
+    "order": 5,
+    "category": "categories.digital_skills",
+    "featured": true,
+    "title": {
+      "pt": "Informática",
+      "en": "Computing"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1YuNA0eKG9fs8NXWRin0PwWu_NZ0bVWwy/view?usp=sharing",
+    "image": null,
+    "description": {
+      "pt": "Certificação em informática, hardware, redes e segurança informática.",
+      "en": "Certification in computer systems, hardware, networking, and cybersecurity."
     }
   }
 ]
