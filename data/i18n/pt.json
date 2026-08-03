@@ -16,7 +16,7 @@
   },
   "hero": {
     "greeting": "Olá, o meu nome é",
-    "title": "Desenvolvedor de Software",
+    "title": "Programador Web Full Stack",
     "description": "Focado na criação de soluções web modernas, escaláveis e de elevado desempenho.",
     "available_for_work": "Disponível para novos projetos",
     "location": "Portugal",
@@ -27,15 +27,15 @@
     "btn_contact": "Entrar em Contacto",
     "features": {
       "fullstack": {
-        "title": "Full Stack Development",
+        "title": "Desenvolvimento Full Stack",
         "description": "Desenvolvimento de aplicações web modernas, desde o frontend até ao backend."
       },
       "responsive": {
-        "title": "Responsive Design",
+        "title": "Design Responsivo",
         "description": "Interfaces rápidas, acessíveis e adaptáveis a qualquer dispositivo."
       },
       "i18n": {
-        "title": "Internationalization (i18n)",
+        "title": "Internacionalização (i18n)",
         "description": "Aplicações preparadas para múltiplos idiomas e expansão internacional."
       }
     }
@@ -127,11 +127,14 @@
     "languages": "Idiomas",
     "programming": "Programação",
     "digital_skills": "Competências Digitais",
-    "informatica": "Informática"
+    "informatica": "Informática",
+    "soft_skills": "Soft Skills"
   },
   "certifications": {
     "title": "Certificados",
     "subtitle": "Formações e certificações obtidas",
+    "featured_title": "Diplomas e Certificações Principais",
+    "other_title": "Outras Formações e Cursos",
     "view_certificate": "Ver Certificado",
     "view_certificates": "Ver Certificados"
   },

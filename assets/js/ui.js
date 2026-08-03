@@ -331,18 +331,18 @@ function renderizarEducacao(educacao, containerId = 'bp-education-container') {
   container.innerHTML = `<div class="bp-timeline">${html}</div>`;
 }
 
-function renderizarCertificados(certificados, containerId = 'bp-certificates-grid') {
+function renderizarGrelhaCertificados(certificadosList, containerId) {
   const container = document.getElementById(containerId);
   if (!container) return;
 
-  if (!certificados || certificados.length === 0) {
+  if (!certificadosList || certificadosList.length === 0) {
     renderizarEmptyState(containerId, 'projects.coming_soon');
     return;
   }
 
   const lang = (typeof i18nState !== 'undefined' && i18nState.currentLang) ? i18nState.currentLang : 'en';
 
-  const html = certificados
+  const html = certificadosList
     .sort((a, b) => (a.order || 0) - (b.order || 0))
     .map(cert => {
       const title = cert.title && cert.title[lang] ? cert.title[lang] : (cert.title?.en || '');
@@ -371,6 +371,31 @@ function renderizarCertificados(certificados, containerId = 'bp-certificates-gri
     .join('');
 
   container.innerHTML = html;
+}
+
+function renderizarCertificados(certificados) {
+  const featuredContainer = document.getElementById('bp-certificates-featured-grid');
+  const otherContainer = document.getElementById('bp-certificates-other-grid');
+  const singleContainer = document.getElementById('bp-certificates-grid');
+
+  if (!certificados || certificados.length === 0) {
+    if (singleContainer) renderizarEmptyState('bp-certificates-grid', 'projects.coming_soon');
+    if (featuredContainer) renderizarEmptyState('bp-certificates-featured-grid', 'projects.coming_soon');
+    return;
+  }
+
+  const featuredCerts = certificados.filter(c => c.featured === true);
+  const otherCerts = certificados.filter(c => !c.featured);
+
+  if (featuredContainer) {
+    renderizarGrelhaCertificados(featuredCerts, 'bp-certificates-featured-grid');
+  }
+  if (otherContainer) {
+    renderizarGrelhaCertificados(otherCerts, 'bp-certificates-other-grid');
+  }
+  if (singleContainer && !featuredContainer && !otherContainer) {
+    renderizarGrelhaCertificados(certificados, 'bp-certificates-grid');
+  }
 }
 
 function inicializarScrollTop() {

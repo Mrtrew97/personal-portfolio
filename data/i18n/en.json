@@ -16,7 +16,7 @@
   },
   "hero": {
     "greeting": "Hello, my name is",
-    "title": "Software Developer",
+    "title": "Full Stack Web Developer",
     "description": "Focused on creating modern, scalable, and high-performance web solutions.",
     "available_for_work": "Available for new projects",
     "location": "Portugal",
@@ -127,11 +127,14 @@
     "languages": "Languages",
     "programming": "Programming",
     "digital_skills": "Digital Skills",
-    "informatica": "Computing"
+    "informatica": "Computing",
+    "soft_skills": "Soft Skills"
   },
   "certifications": {
     "title": "Certifications",
     "subtitle": "Completed courses and earned certifications",
+    "featured_title": "Featured Diplomas & Certifications",
+    "other_title": "Other Courses & Certifications",
     "view_certificate": "View Certificate",
     "view_certificates": "View Certificates"
   },

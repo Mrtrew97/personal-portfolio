@@ -3,7 +3,7 @@
     "id": "cert-skb-office",
     "order": 1,
     "category": "categories.office",
-    "featured": true,
+    "featured": false,
     "title": {
       "pt": "Office",
       "en": "Office"
@@ -24,7 +24,7 @@
     "id": "cert-skb-english",
     "order": 2,
     "category": "categories.languages",
-    "featured": true,
+    "featured": false,
     "title": {
       "pt": "Inglês",
       "en": "English"
@@ -45,7 +45,7 @@
     "id": "cert-santander-python",
     "order": 3,
     "category": "categories.programming",
-    "featured": true,
+    "featured": false,
     "title": {
       "pt": "Python Programming",
       "en": "Python Programming"
@@ -66,7 +66,7 @@
     "id": "cert-mydigiskills",
     "order": 4,
     "category": "categories.digital_skills",
-    "featured": true,
+    "featured": false,
     "title": {
       "pt": "Competências Digitais",
       "en": "Digital Competences"
@@ -87,7 +87,7 @@
     "id": "cert-masterd-computing",
     "order": 5,
     "category": "categories.digital_skills",
-    "featured": true,
+    "featured": false,
     "title": {
       "pt": "Informática",
       "en": "Computing"
@@ -102,6 +102,48 @@
     "description": {
       "pt": "Certificação em informática, hardware, redes e segurança informática.",
       "en": "Certification in computer systems, hardware, networking, and cybersecurity."
+    }
+  },
+  {
+    "id": "cert-masterd-digital-competences",
+    "order": 6,
+    "category": "categories.digital_skills",
+    "featured": false,
+    "title": {
+      "pt": "Competências Digitais",
+      "en": "Digital Skills"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1xfUnqVxLrA4Hi9Ngj1KI4gKw3GW-jKWF/view?usp=sharing",
+    "image": null,
+    "description": {
+      "pt": "Certificação em competências digitais, ferramentas tecnológicas e literacia digital.",
+      "en": "Certification in digital skills, technology tools, and digital literacy."
+    }
+  },
+  {
+    "id": "cert-masterd-soft-skills",
+    "order": 7,
+    "category": "categories.soft_skills",
+    "featured": false,
+    "title": {
+      "pt": "Soft Skills",
+      "en": "Soft Skills"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1l097NslXN2zsktYSqka83cuyBfmYqLBO/view?usp=sharing",
+    "image": null,
+    "description": {
+      "pt": "Certificação em competências comportamentais, comunicação e desenvolvimento profissional.",
+      "en": "Certification in soft skills, communication, and professional development."
     }
   }
 ]
