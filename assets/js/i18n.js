@@ -12,7 +12,7 @@ function obterIdiomaAtual() {
 
 async function carregarIdioma(lang) {
   try {
-    const response = await fetch(`./data/i18n/${lang}.json`);
+    const response = await fetch(`./data/i18n/${lang}.json?v=${Date.now()}`);
     if (!response.ok) {
       throw new Error(`Erro ao carregar idioma: ${response.statusText}`);
     }

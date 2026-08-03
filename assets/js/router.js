@@ -33,7 +33,7 @@ async function carregarPagina(routeKey) {
   atualizarNavLinkAtivo(routeKey);
 
   try {
-    const response = await fetch(path);
+    const response = await fetch(`${path}?v=${Date.now()}`);
     if (!response.ok) {
       throw new Error(`Erro ao carregar página: ${response.statusText}`);
     }
