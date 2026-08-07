@@ -145,5 +145,47 @@
       "pt": "Certificação em competências comportamentais, comunicação e desenvolvimento profissional.",
       "en": "Certification in soft skills, communication, and professional development."
     }
+  },
+  {
+    "id": "cert-masterd-entrepreneurship",
+    "order": 8,
+    "category": "categories.entrepreneurship",
+    "featured": false,
+    "title": {
+      "pt": "Empreendedorismo",
+      "en": "Entrepreneurship"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1UUrCUrqFmRNHXbG-l3DmYHFBLNHjMpzT/view?usp=sharing",
+    "image": null,
+    "description": {
+      "pt": "Certificação em empreendedorismo, criação e gestão de negócios.",
+      "en": "Certification in entrepreneurship, business creation, and management."
+    }
+  },
+  {
+    "id": "cert-masterd-training-completion",
+    "order": 9,
+    "category": "categories.conclusion",
+    "featured": true,
+    "title": {
+      "pt": "Declaração de Conclusão da Formação",
+      "en": "Training Completion Certificate"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1zLc6EBpluEw2cN18eUAFudDekg4vnE7L/view?usp=sharing",
+    "image": null,
+    "description": {
+      "pt": "Declaração de conclusão da formação em Full Stack Web Development.",
+      "en": "Certificate of completion for the Full Stack Web Development programme."
+    }
   }
 ]
