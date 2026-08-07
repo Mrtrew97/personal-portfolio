@@ -59,6 +59,12 @@ function aplicarTraducoes() {
     metaDescription.setAttribute('content', descricaoPagina);
   }
 
+  const cvBtn = document.getElementById('bp-cv-download-btn');
+  if (cvBtn) {
+    const langCode = i18nState.currentLang === 'pt' ? 'PT' : 'EN';
+    cvBtn.setAttribute('href', `assets/documents/${langCode}/Bruno_Pinto_${langCode}_CV.pdf`);
+  }
+
   const elementosTexto = document.querySelectorAll('[data-i18n]');
   elementosTexto.forEach((el) => {
     const chave = el.getAttribute('data-i18n');
