@@ -16,6 +16,7 @@ function atualizarInterface() {
   renderizarProjetos(dataState.projects, 'bp-projects-grid');
   renderizarCompetencias(dataState.skills, 'bp-skills-grid');
   renderizarExperiencia(dataState.experience, 'bp-experience-container');
+  renderizarEducacao(dataState.education, 'bp-education-container');
   renderizarCertificados(dataState.certificates, 'bp-certificates-grid');
 }
 

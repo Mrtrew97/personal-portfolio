@@ -1,7 +1,38 @@
 [
   {
-    "id": "edu-masterd",
+    "id": "edu-python-masterd",
     "order": 1,
+    "category": "professional-training",
+    "featured": true,
+    "institution": "Master.D",
+    "institutionUrl": "https://www.masterd.pt/",
+    "location": "Lisboa, Portugal",
+    "title": {
+      "pt": "Programação em Python",
+      "en": "Python Programming"
+    },
+    "startDate": "08/2026",
+    "endDate": null,
+    "isCurrent": true,
+    "completed": false,
+    "description": {
+      "pt": "Formação em Programação em Python, abrangendo fundamentos de programação, manipulação e tratamento de dados, análise de dados e desenvolvimento de projetos práticos.",
+      "en": "Python Programming training covering programming fundamentals, data manipulation and processing, data analysis, and practical project development."
+    },
+    "skills": [
+      "Python"
+    ],
+    "technologies": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Seaborn",
+      "Statsmodels"
+    ]
+  },
+  {
+    "id": "edu-masterd",
+    "order": 2,
     "category": "professional-training",
     "featured": true,
     "institution": "Master.D",
@@ -34,7 +65,7 @@
   },
   {
     "id": "edu-ist",
-    "order": 2,
+    "order": 3,
     "category": "academic",
     "featured": false,
     "institution": "Instituto Superior Técnico",

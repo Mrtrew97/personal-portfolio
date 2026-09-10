@@ -19,9 +19,28 @@
     "featured": true
   },
   {
+    "id": "proj-python",
+    "slug": "imdb-movie-search",
+    "order": 2,
+    "category": "python",
+    "title": {
+      "pt": "Motor de Pesquisa de Filmes IMDb",
+      "en": "IMDb Movie Search Engine"
+    },
+    "description": {
+      "pt": "Motor de pesquisa de filmes com tratamento de dados, pesquisa aproximada e interface web interativa desenvolvida com Streamlit.",
+      "en": "Movie search engine featuring data processing, fuzzy matching, and an interactive web interface developed with Streamlit."
+    },
+    "technologies": ["Python", "Pandas", "RapidFuzz", "Streamlit", "CSS3", "JSON"],
+    "image": "assets/images/projects/imdb-movie-search.webp",
+    "demoUrl": "https://imdb-movie-search-bp.streamlit.app/",
+    "repoUrl": "https://github.com/Mrtrew97/imdb-movie-search",
+    "featured": true
+  },
+  {
     "id": "proj-sabaton-ecommerce",
     "slug": "sabaton-ecommerce-ajax-json",
-    "order": 2,
+    "order": 3,
     "category": "frontend",
     "title": {
       "pt": "Sabaton Ecommerce AJAX JSON",
@@ -40,7 +59,7 @@
   {
     "id": "proj-kanban",
     "slug": "gestor-tarefas-kanban",
-    "order": 3,
+    "order": 4,
     "category": "fullstack",
     "title": {
       "pt": "Gestor de Tarefas Kanban",
@@ -59,7 +78,7 @@
   {
     "id": "proj-portfolio",
     "slug": "personal-developer-portfolio",
-    "order": 4,
+    "order": 5,
     "category": "frontend",
     "title": {
       "pt": "Portfólio Pessoal de Desenvolvedor",
@@ -78,20 +97,20 @@
   {
     "id": "proj-masterd-fullstack-course",
     "slug": "masterd-fullstack-course",
-    "order": 5,
+    "order": 6,
     "category": "fullstack",
     "title": {
-        "pt": "Master.D Full Stack Web Development",
-        "en": "Master.D Full Stack Web Development"
+      "pt": "Master.D Full Stack Web Development",
+      "en": "Master.D Full Stack Web Development"
     },
     "description": {
-        "pt": "Repositório central de projetos desenvolvidos durante a formação Full Stack Web Development da Master.D, reunindo exercícios práticos e aplicações criadas com tecnologias frontend e backend.",
-        "en": "Central repository of projects developed during the Master.D Full Stack Web Development course, gathering practical exercises and applications built with frontend and backend technologies."
+      "pt": "Repositório central de projetos desenvolvidos durante a formação Full Stack Web Development da Master.D, reunindo exercícios práticos e aplicações criadas com tecnologias frontend e backend.",
+      "en": "Central repository of projects developed during the Master.D Full Stack Web Development course, gathering practical exercises and applications built with frontend and backend technologies."
     },
     "technologies": ["HTML5", "CSS3", "JavaScript ES6+", "TypeScript", "PHP", "MySQL", "Bootstrap 5", "React", "Angular", "Git"],
     "image": "assets/images/projects/masterd-fullstack-course.webp",
     "demoUrl": null,
     "repoUrl": "https://github.com/Mrtrew97/masterd-fullstack-course",
     "featured": false
-    }
+  }
 ]

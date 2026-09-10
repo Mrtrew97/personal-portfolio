@@ -129,7 +129,7 @@
         "id": "skill-python",
         "name": "Python",
         "icon": "bi bi-filetype-py",
-        "level": "basic",
+        "level": "intermediate",
         "description": {
           "pt": "Automação de tarefas, scripts e processamento de dados.",
           "en": "Task automation, scripting, and data processing."

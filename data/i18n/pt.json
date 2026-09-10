@@ -16,8 +16,8 @@
   },
   "hero": {
     "greeting": "Olá, o meu nome é",
-    "title": "Programador Web Full Stack",
-    "description": "Focado na criação de soluções web modernas, escaláveis e de elevado desempenho.",
+    "title": "Programador Full Stack & Python",
+    "description": "Focado no desenvolvimento de aplicações web Full Stack e soluções em Python, com uma abordagem prática, analítica e orientada à resolução de problemas.",
     "available_for_work": "Disponível para novos projetos",
     "location": "Portugal",
     "tech_stack": "Tecnologias Principais",
@@ -37,6 +37,10 @@
       "i18n": {
         "title": "Internacionalização (i18n)",
         "description": "Aplicações preparadas para múltiplos idiomas e expansão internacional."
+      },
+      "python": {
+        "title": "Desenvolvimento em Python",
+        "description": "Desenvolvimento de aplicações práticas e eficientes em Python para resolver problemas do mundo real."
       }
     }
   },
@@ -45,8 +49,9 @@
     "subtitle": "Conheça a minha trajetória e motivações",
     "description": "Desenvolvedor apaixonado por tecnologia e criação de aplicações web de elevado valor.",
     "paragraphs": {
-      "1": "Sou um Desenvolvedor Web Full Stack com sólida experiência anterior em suporte técnico e resolução de problemas complexos, o que me confere uma perspetiva holística e analítica na criação de soluções tecnológicas.",
-      "2": "O meu foco principal reside no desenvolvimento de aplicações web modernas, limpas e escaláveis utilizando PHP, JavaScript e MySQL, combinando boas práticas de engenharia de software com uma excelente experiência de utilizador."
+      "1": "Sou um Desenvolvedor de Software com experiência em desenvolvimento Full Stack e suporte técnico, combinando conhecimentos de programação com uma abordagem analítica e orientada à resolução de problemas para criar soluções tecnológicas práticas e eficientes.",
+      "2": "Desenvolvo aplicações e soluções tecnológicas com foco em código limpo, boas práticas de desenvolvimento e resolução eficiente de problemas. Trabalho principalmente com PHP, JavaScript, MySQL e Python, adaptando as tecnologias às necessidades de cada projeto.",
+      "3": "A minha formação em Full Stack Web Development e Programação em Python permitiu-me consolidar conhecimentos através de diversos projetos práticos, abrangendo desde o desenvolvimento web até à criação de aplicações Python e projetos de manipulação e análise de dados."
     },
     "highlights": {
       "career_transition": {

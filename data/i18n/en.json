@@ -16,8 +16,8 @@
   },
   "hero": {
     "greeting": "Hello, my name is",
-    "title": "Full Stack Web Developer",
-    "description": "Focused on creating modern, scalable, and high-performance web solutions.",
+    "title": "Full Stack & Python Developer",
+    "description": "Focused on Full Stack web development and Python solutions, with a practical, analytical, and problem-solving approach.",
     "available_for_work": "Available for new projects",
     "location": "Portugal",
     "tech_stack": "Core Tech Stack",
@@ -37,6 +37,10 @@
       "i18n": {
         "title": "Internationalization (i18n)",
         "description": "Applications designed for multiple languages and international audiences."
+      },
+      "python": {
+        "title": "Python Development",
+        "description": "Development of practical and efficient Python applications to solve real-world problems."
       }
     }
   },
@@ -45,8 +49,9 @@
     "subtitle": "Discover my journey and motivations",
     "description": "Passionate developer focused on technology and building high-value web applications.",
     "paragraphs": {
-      "1": "I am a Full Stack Web Developer with solid prior experience in technical support and complex problem solving, providing me with a holistic and analytical perspective when building technological solutions.",
-      "2": "My primary focus lies on developing modern, clean, and scalable web applications using PHP, JavaScript, and MySQL, combining software engineering best practices with an excellent user experience."
+      "1": "I am a Software Developer with experience in Full Stack development and technical support, combining programming knowledge with an analytical and problem-solving approach to create practical and efficient technological solutions.",
+      "2": "I develop applications and technological solutions with a focus on clean code, development best practices, and efficient problem solving. I mainly work with PHP, JavaScript, MySQL, and Python, adapting technologies to the needs of each project.",
+      "3": "My training in Full Stack Web Development and Python Programming has allowed me to consolidate my knowledge through various practical projects, ranging from web development to building Python applications and working on data processing and analysis projects."
     },
     "highlights": {
       "career_transition": {
