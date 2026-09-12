@@ -1,305 +1,303 @@
-{
-  "skills": [
-    {
-      "id": "cat-frontend",
-      "category": "frontend",
-      "order": 1,
-      "categoryKey": "skills.frontend",
-      "skills": [
-        {
-          "id": "skill-html5",
-          "name": "HTML5",
-          "icon": "bi bi-filetype-html",
-          "level": "advanced",
-          "description": {
-            "pt": "Desenvolvimento de estruturas web semânticas e acessíveis.",
-            "en": "Development of semantic and accessible web structures."
-          },
-          "featured": true
+[
+  {
+    "id": "cat-frontend",
+    "category": "frontend",
+    "order": 1,
+    "categoryKey": "skills.frontend",
+    "skills": [
+      {
+        "id": "skill-html5",
+        "name": "HTML5",
+        "icon": "bi bi-filetype-html",
+        "level": "advanced",
+        "description": {
+          "pt": "Estruturação semântica e acessível para a web moderna.",
+          "en": "Semantic and accessible structuring for the modern web."
         },
-        {
-          "id": "skill-css3",
-          "name": "CSS3",
-          "icon": "bi bi-filetype-css",
-          "level": "advanced",
-          "description": {
-            "pt": "Criação de layouts responsivos, estilos e interfaces web.",
-            "en": "Creation of responsive layouts, styles, and web interfaces."
-          },
-          "featured": true
+        "featured": true
+      },
+      {
+        "id": "skill-css3",
+        "name": "CSS3",
+        "icon": "bi bi-filetype-css",
+        "level": "advanced",
+        "description": {
+          "pt": "Estilização avançada, Flexbox, Grid Layout e animações responsivas.",
+          "en": "Advanced styling, Flexbox, Grid Layout, and responsive animations."
         },
-        {
-          "id": "skill-javascript",
-          "name": "JavaScript (ES6+)",
-          "icon": "bi bi-filetype-js",
-          "level": "intermediate",
-          "description": {
-            "pt": "Desenvolvimento de funcionalidades interativas e lógica no lado do cliente.",
-            "en": "Development of interactive functionality and client-side logic."
-          },
-          "featured": true
-        }
-      ]
-    },
-    {
-      "id": "cat-frameworks",
-      "category": "frameworks",
-      "order": 2,
-      "categoryKey": "skills.frameworks",
-      "skills": [
-        {
-          "id": "skill-bootstrap",
-          "name": "Bootstrap 5",
-          "icon": "bi bi-bootstrap",
-          "level": "intermediate",
-          "description": {
-            "pt": "Desenvolvimento de interfaces responsivas utilizando componentes e utilitários Bootstrap.",
-            "en": "Development of responsive interfaces using Bootstrap components and utilities."
-          },
-          "featured": true
+        "featured": true
+      },
+      {
+        "id": "skill-js",
+        "name": "JavaScript (ES6+)",
+        "icon": "bi bi-filetype-js",
+        "level": "intermediate",
+        "description": {
+          "pt": "Desenvolvimento dinâmico, assíncrono e manipulação de DOM.",
+          "en": "Dynamic and asynchronous development, and DOM manipulation."
         },
-        {
-          "id": "skill-typescript",
-          "name": "TypeScript",
-          "icon": "bi bi-filetype-tsx",
-          "level": "intermediate",
-          "description": {
-            "pt": "Desenvolvimento JavaScript com tipagem estática e maior organização do código.",
-            "en": "JavaScript development with static typing and improved code organization."
-          },
-          "featured": false
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-frameworks",
+    "category": "frameworks",
+    "order": 2,
+    "categoryKey": "skills.frameworks",
+    "skills": [
+      {
+        "id": "skill-bootstrap",
+        "name": "Bootstrap 5",
+        "icon": "bi bi-bootstrap",
+        "level": "intermediate",
+        "description": {
+          "pt": "Criação ágil de interfaces responsivas e sistemas de grelha.",
+          "en": "Rapid creation of responsive interfaces and grid systems."
         },
-        {
-          "id": "skill-jquery",
-          "name": "jQuery",
-          "icon": "bi bi-code-square",
-          "level": "intermediate",
-          "description": {
-            "pt": "Manipulação do DOM, eventos e desenvolvimento de funcionalidades interativas.",
-            "en": "DOM manipulation, event handling, and development of interactive functionality."
-          },
-          "featured": false
-        }
-      ]
-    },
-    {
-      "id": "cat-backend",
-      "category": "backend",
-      "order": 3,
-      "categoryKey": "skills.backend",
-      "skills": [
-        {
-          "id": "skill-php",
-          "name": "PHP 8.2",
-          "icon": "bi bi-filetype-php",
-          "level": "intermediate",
-          "description": {
-            "pt": "Desenvolvimento backend com PHP, programação orientada a objetos e arquitetura DAO.",
-            "en": "Backend development with PHP, object-oriented programming, and DAO architecture."
-          },
-          "featured": true
-        }
-      ]
-    },
-    {
-      "id": "cat-databases",
-      "category": "databases",
-      "order": 4,
-      "categoryKey": "skills.databases",
-      "skills": [
-        {
-          "id": "skill-mysql",
-          "name": "MySQL & PDO",
-          "icon": "bi bi-database",
-          "level": "intermediate",
-          "description": {
-            "pt": "Modelação de bases de dados relacionais, SQL e acesso a dados através de PDO.",
-            "en": "Relational database modelling, SQL, and data access using PDO."
-          },
-          "featured": true
-        }
-      ]
-    },
-    {
-      "id": "cat-languages",
-      "category": "programming",
-      "order": 5,
-      "categoryKey": "skills.languages",
-      "skills": [
-        {
-          "id": "skill-python",
-          "name": "Python",
-          "icon": "bi bi-filetype-py",
-          "level": "intermediate",
-          "description": {
-            "pt": "Desenvolvimento de aplicações, automação de tarefas, scripts e processamento de dados.",
-            "en": "Application development, task automation, scripting, and data processing."
-          },
-          "featured": true
+        "featured": true
+      },
+      {
+        "id": "skill-ts",
+        "name": "TypeScript",
+        "icon": "bi bi-code-slash",
+        "level": "intermediate",
+        "description": {
+          "pt": "JavaScript com tipagem estática para aplicações mais robustas.",
+          "en": "Statically typed JavaScript for robust applications."
         },
-        {
-          "id": "skill-pandas",
-          "name": "Pandas",
-          "icon": "bi bi-table",
-          "level": "intermediate",
-          "description": {
-            "pt": "Manipulação, limpeza e tratamento de dados estruturados.",
-            "en": "Manipulation, cleaning, and processing of structured data."
-          },
-          "featured": true
+        "featured": false
+      },
+      {
+        "id": "skill-jquery",
+        "name": "jQuery",
+        "icon": "bi bi-code-square",
+        "level": "intermediate",
+        "description": {
+          "pt": "Manipulação simplificada de DOM e requisições AJAX.",
+          "en": "Simplified DOM manipulation and AJAX requests."
         },
-        {
-          "id": "skill-numpy",
-          "name": "NumPy",
-          "icon": "bi bi-calculator",
-          "level": "intermediate",
-          "description": {
-            "pt": "Computação numérica e operações sobre estruturas de dados.",
-            "en": "Numerical computing and operations on data structures."
-          },
-          "featured": false
+        "featured": false
+      }
+    ]
+  },
+  {
+    "id": "cat-backend",
+    "category": "backend",
+    "order": 3,
+    "categoryKey": "skills.backend",
+    "skills": [
+      {
+        "id": "skill-php",
+        "name": "PHP 8.2",
+        "icon": "bi bi-filetype-php",
+        "level": "intermediate",
+        "description": {
+          "pt": "Desenvolvimento de aplicações web dinâmicas e sistemas e-commerce.",
+          "en": "Development of dynamic web applications and e-commerce systems."
         },
-        {
-          "id": "skill-statsmodels",
-          "name": "Statsmodels",
-          "icon": "bi bi-graph-up",
-          "level": "intermediate",
-          "description": {
-            "pt": "Modelação estatística e análise de regressão.",
-            "en": "Statistical modelling and regression analysis."
-          },
-          "featured": false
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-databases",
+    "category": "databases",
+    "order": 4,
+    "categoryKey": "skills.databases",
+    "skills": [
+      {
+        "id": "skill-mysql",
+        "name": "MySQL & PDO",
+        "icon": "bi bi-database",
+        "level": "intermediate",
+        "description": {
+          "pt": "Modelação de bases de dados relacionais e consultas seguras.",
+          "en": "Relational database modeling and secure queries."
         },
-        {
-          "id": "skill-matplotlib",
-          "name": "Matplotlib",
-          "icon": "bi bi-bar-chart",
-          "level": "intermediate",
-          "description": {
-            "pt": "Criação de gráficos e visualizações de dados.",
-            "en": "Creation of charts and data visualizations."
-          },
-          "featured": false
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-languages",
+    "category": "programming",
+    "order": 5,
+    "categoryKey": "skills.languages",
+    "skills": [
+      {
+        "id": "skill-python",
+        "name": "Python",
+        "icon": "bi bi-filetype-py",
+        "level": "intermediate",
+        "description": {
+          "pt": "Automação de tarefas, scripts e processamento de dados.",
+          "en": "Task automation, scripting, and data processing."
         },
-        {
-          "id": "skill-seaborn",
-          "name": "Seaborn",
-          "icon": "bi bi-bar-chart-line",
-          "level": "intermediate",
-          "description": {
-            "pt": "Visualização estatística e exploração gráfica de dados.",
-            "en": "Statistical visualization and graphical data exploration."
-          },
-          "featured": false
+        "featured": true
+      },
+      {
+        "id": "skill-pandas",
+        "name": "Pandas",
+        "icon": "bi bi-table",
+        "level": "intermediate",
+        "description": {
+          "pt": "Manipulação, limpeza e tratamento de dados estruturados.",
+          "en": "Manipulation, cleaning, and processing of structured data."
         },
-        {
-          "id": "skill-scikit-learn",
-          "name": "Scikit-learn",
-          "icon": "bi bi-cpu",
-          "level": "intermediate",
-          "description": {
-            "pt": "Preparação de dados, divisão de conjuntos e avaliação de modelos de classificação.",
-            "en": "Data preparation, dataset splitting, and classification model evaluation."
-          },
-          "featured": false
+        "featured": true
+      },
+      {
+        "id": "skill-numpy",
+        "name": "NumPy",
+        "icon": "bi bi-calculator",
+        "level": "intermediate",
+        "description": {
+          "pt": "Computação numérica e operações sobre estruturas de dados.",
+          "en": "Numerical computing and operations on data structures."
         },
-        {
-          "id": "skill-pypdf2",
-          "name": "PyPDF2",
-          "icon": "bi bi-file-earmark-pdf",
-          "level": "intermediate",
-          "description": {
-            "pt": "Leitura, manipulação e processamento de documentos PDF.",
-            "en": "Reading, manipulation, and processing of PDF documents."
-          },
-          "featured": false
+        "featured": false
+      },
+      {
+        "id": "skill-statsmodels",
+        "name": "Statsmodels",
+        "icon": "bi bi-graph-up",
+        "level": "intermediate",
+        "description": {
+          "pt": "Modelação estatística e análise de regressão.",
+          "en": "Statistical modelling and regression analysis."
         },
-        {
-          "id": "skill-reportlab",
-          "name": "ReportLab",
-          "icon": "bi bi-file-earmark-pdf",
-          "level": "intermediate",
-          "description": {
-            "pt": "Criação e geração programática de documentos PDF.",
-            "en": "Programmatic creation and generation of PDF documents."
-          },
-          "featured": false
+        "featured": false
+      },
+      {
+        "id": "skill-matplotlib",
+        "name": "Matplotlib",
+        "icon": "bi bi-bar-chart",
+        "level": "intermediate",
+        "description": {
+          "pt": "Criação de gráficos e visualizações de dados.",
+          "en": "Creation of charts and data visualizations."
         },
-        {
-          "id": "skill-rapidfuzz",
-          "name": "RapidFuzz",
-          "icon": "bi bi-search",
-          "level": "intermediate",
-          "description": {
-            "pt": "Pesquisa aproximada e cálculo de similaridade entre textos.",
-            "en": "Fuzzy matching and text similarity calculations."
-          },
-          "featured": false
+        "featured": false
+      },
+      {
+        "id": "skill-seaborn",
+        "name": "Seaborn",
+        "icon": "bi bi-bar-chart-line",
+        "level": "intermediate",
+        "description": {
+          "pt": "Visualização estatística e exploração gráfica de dados.",
+          "en": "Statistical visualization and graphical data exploration."
         },
-        {
-          "id": "skill-streamlit",
-          "name": "Streamlit",
-          "icon": "bi bi-window",
-          "level": "intermediate",
-          "description": {
-            "pt": "Desenvolvimento de aplicações web interativas em Python.",
-            "en": "Development of interactive web applications with Python."
-          },
-          "featured": true
-        }
-      ]
-    },
-    {
-      "id": "cat-tools",
-      "category": "tools",
-      "order": 6,
-      "categoryKey": "skills.tools",
-      "skills": [
-        {
-          "id": "skill-git",
-          "name": "Git",
-          "icon": "bi bi-git",
-          "level": "intermediate",
-          "description": {
-            "pt": "Controlo de versões e gestão do histórico de desenvolvimento.",
-            "en": "Version control and development history management."
-          },
-          "featured": true
+        "featured": false
+      },
+      {
+        "id": "skill-scikit-learn",
+        "name": "Scikit-learn",
+        "icon": "bi bi-cpu",
+        "level": "intermediate",
+        "description": {
+          "pt": "Preparação de dados, divisão de conjuntos e avaliação de modelos de classificação.",
+          "en": "Data preparation, dataset splitting, and classification model evaluation."
         },
-        {
-          "id": "skill-github",
-          "name": "GitHub",
-          "icon": "bi bi-github",
-          "level": "intermediate",
-          "description": {
-            "pt": "Gestão de repositórios, projetos e colaboração através de GitHub.",
-            "en": "Repository, project, and collaboration management using GitHub."
-          },
-          "featured": true
+        "featured": false
+      },
+      {
+        "id": "skill-pypdf2",
+        "name": "PyPDF2",
+        "icon": "bi bi-file-earmark-pdf",
+        "level": "intermediate",
+        "description": {
+          "pt": "Leitura, manipulação e processamento de documentos PDF.",
+          "en": "Reading, manipulation, and processing of PDF documents."
         },
-        {
-          "id": "skill-fetch-api",
-          "name": "Fetch API",
-          "icon": "bi bi-cloud-arrow-down",
-          "level": "intermediate",
-          "description": {
-            "pt": "Comunicação assíncrona com APIs e obtenção de dados através de JavaScript.",
-            "en": "Asynchronous API communication and data retrieval using JavaScript."
-          },
-          "featured": true
+        "featured": false
+      },
+      {
+        "id": "skill-reportlab",
+        "name": "ReportLab",
+        "icon": "bi bi-file-earmark-pdf",
+        "level": "intermediate",
+        "description": {
+          "pt": "Criação e geração programática de documentos PDF.",
+          "en": "Programmatic creation and generation of PDF documents."
         },
-        {
-          "id": "skill-ajax-json",
-          "name": "AJAX & JSON",
-          "icon": "bi bi-arrow-repeat",
-          "level": "intermediate",
-          "description": {
-            "pt": "Comunicação assíncrona e troca de dados estruturados entre aplicações.",
-            "en": "Asynchronous communication and structured data exchange between applications."
-          },
-          "featured": false
-        }
-      ]
-    }
-  ]
-}
+        "featured": false
+      },
+      {
+        "id": "skill-rapidfuzz",
+        "name": "RapidFuzz",
+        "icon": "bi bi-search",
+        "level": "intermediate",
+        "description": {
+          "pt": "Pesquisa aproximada e cálculo de similaridade entre textos.",
+          "en": "Fuzzy matching and text similarity calculations."
+        },
+        "featured": false
+      },
+      {
+        "id": "skill-streamlit",
+        "name": "Streamlit",
+        "icon": "bi bi-window",
+        "level": "intermediate",
+        "description": {
+          "pt": "Desenvolvimento de aplicações web interativas em Python.",
+          "en": "Development of interactive web applications with Python."
+        },
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "cat-tools",
+    "category": "tools",
+    "order": 6,
+    "categoryKey": "skills.tools",
+    "skills": [
+      {
+        "id": "skill-git",
+        "name": "Git",
+        "icon": "bi bi-git",
+        "level": "intermediate",
+        "description": {
+          "pt": "Controlo de versões, branches e fluxos de trabalho colaborativos.",
+          "en": "Version control, branching, and collaborative workflows."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-github",
+        "name": "GitHub",
+        "icon": "bi bi-github",
+        "level": "intermediate",
+        "description": {
+          "pt": "Hospedagem de código, pull requests e GitHub Pages.",
+          "en": "Code hosting, pull requests, and GitHub Pages."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-fetch",
+        "name": "Fetch API",
+        "icon": "bi bi-cloud-arrow-down",
+        "level": "intermediate",
+        "description": {
+          "pt": "Consumo de recursos assíncronos através de APIs modernas JavaScript.",
+          "en": "Asynchronous resource consumption through modern JavaScript APIs."
+        },
+        "featured": true
+      },
+      {
+        "id": "skill-ajax",
+        "name": "AJAX & JSON",
+        "icon": "bi bi-filetype-json",
+        "level": "intermediate",
+        "description": {
+          "pt": "Comunicação assíncrona cliente-servidor e troca de dados.",
+          "en": "Asynchronous client-server communication and data exchange."
+        },
+        "featured": false
+      }
+    ]
+  }
+]
