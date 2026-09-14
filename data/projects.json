@@ -50,7 +50,7 @@
     ],
     "image": "assets/images/projects/imdb-movie-search.webp",
     "demoUrl": "https://imdb-movie-search-bp.streamlit.app/#topo",
-    "repoUrl": "[https://github.com/Mrtrew97/imdb-movie-search](https://github.com/Mrtrew97/imdb-movie-search)",
+    "repoUrl": "https://github.com/Mrtrew97/imdb-movie-search",
     "featured": true
   },
   {
@@ -77,7 +77,7 @@
     ],
     "image": "assets/images/projects/personal-portfolio.webp",
     "demoUrl": "https://mrtrew97.github.io/personal-portfolio/#home",
-    "repoUrl": "[https://github.com/Mrtrew97/personal-portfolio](https://github.com/Mrtrew97/personal-portfolio)",
+    "repoUrl": "https://github.com/Mrtrew97/personal-portfolio",
     "featured": true
   },
   {
