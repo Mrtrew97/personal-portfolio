@@ -24,7 +24,7 @@
     ],
     "image": "assets/images/projects/nexbyte-ecommerce.webp",
     "demoUrl": null,
-    "repoUrl": "[https://github.com/Mrtrew97/nexbyte-ecommerce](https://github.com/Mrtrew97/nexbyte-ecommerce)",
+    "repoUrl": "https://github.com/Mrtrew97/nexbyte-ecommerce",
     "featured": true
   },
   {
@@ -107,7 +107,7 @@
     ],
     "image": "assets/images/projects/masterd-fullstack-course.webp",
     "demoUrl": null,
-    "repoUrl": "[https://github.com/Mrtrew97/masterd-fullstack-course](https://github.com/Mrtrew97/masterd-fullstack-course)",
+    "repoUrl": "https://github.com/Mrtrew97/masterd-fullstack-course",
     "featured": false
   },
   {
@@ -138,7 +138,7 @@
     ],
     "image": "assets/images/projects/masterd-python-course.webp",
     "demoUrl": null,
-    "repoUrl": "[https://github.com/Mrtrew97/masterd-python-course](https://github.com/Mrtrew97/masterd-python-course)",
+    "repoUrl": "https://github.com/Mrtrew97/masterd-python-course",
     "featured": false
   },
   {
@@ -164,7 +164,7 @@
     ],
     "image": "assets/images/projects/kanban-task-manager-php-mysql.webp",
     "demoUrl": null,
-    "repoUrl": "[https://github.com/Mrtrew97/kanban-task-manager-php-mysql](https://github.com/Mrtrew97/kanban-task-manager-php-mysql)",
+    "repoUrl": "https://github.com/Mrtrew97/kanban-task-manager-php-mysql",
     "featured": true
   },
   {
@@ -190,7 +190,7 @@
     ],
     "image": "assets/images/projects/sabaton-ecommerce-ajax-json.webp",
     "demoUrl": null,
-    "repoUrl": "[https://github.com/Mrtrew97/sabaton-ecommerce-ajax-json](https://github.com/Mrtrew97/sabaton-ecommerce-ajax-json)",
+    "repoUrl": "https://github.com/Mrtrew97/sabaton-ecommerce-ajax-json",
     "featured": false
   }
 ]
