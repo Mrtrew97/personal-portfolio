@@ -49,7 +49,7 @@
       "JSON"
     ],
     "image": "assets/images/projects/imdb-movie-search.webp",
-    "demoUrl": "[https://imdb-movie-search-bp.streamlit.app/](https://imdb-movie-search-bp.streamlit.app/)",
+    "demoUrl": "[https://imdb-movie-search-bp.streamlit.app/#topo](https://imdb-movie-search-bp.streamlit.app/#topo)",
     "repoUrl": "[https://github.com/Mrtrew97/imdb-movie-search](https://github.com/Mrtrew97/imdb-movie-search)",
     "featured": true
   },
