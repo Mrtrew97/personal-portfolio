@@ -12,9 +12,9 @@
       "en": "Python Programming"
     },
     "startDate": "08/2026",
-    "endDate": null,
-    "isCurrent": true,
-    "completed": false,
+    "endDate": "09/2026",
+    "isCurrent": false,
+    "completed": true,
     "description": {
       "pt": "Formação em Programação em Python, abrangendo fundamentos de programação, manipulação e tratamento de dados, análise de dados e desenvolvimento de projetos práticos.",
       "en": "Python Programming training covering programming fundamentals, data manipulation and processing, data analysis, and practical project development."

@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": "cert-masterd-training-completion",
+    "id": "cert-masterd-fullstack-training-completion",
     "order": 9,
     "category": "categories.conclusion",
     "featured": true,
@@ -186,6 +186,27 @@
     "description": {
       "pt": "Declaração de conclusão da formação em Full Stack Web Development.",
       "en": "Certificate of completion for the Full Stack Web Development programme."
+    }
+  },
+  {
+    "id": "cert-masterd-python-training-completion",
+    "order": 9,
+    "category": "categories.conclusion",
+    "featured": true,
+    "title": {
+      "pt": "Declaração de Conclusão da Formação",
+      "en": "Training Completion Certificate"
+    },
+    "issuer": "MasterD",
+    "issuerUrl": "https://www.masterd.pt/",
+    "issueDate": "2026",
+    "expiryDate": null,
+    "credentialId": null,
+    "credentialUrl": "https://drive.google.com/file/d/1zwjmCoMWaGHyfl3QgX9YLCulI7DGq_lJ/view?usp=sharing",
+    "image": null,
+    "description": {
+      "pt": "Declaração de conclusão da formação em Programação em Python.",
+      "en": "Certificate of completion for the Python Programming programme."
     }
   }
 ]
